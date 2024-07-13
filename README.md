@@ -31,7 +31,7 @@ Protect your gaming accounts from bans with the latest 2024 HWID spoofer. Our un
 
 1. **Download** the spoofer software by clicking the button above.
 2. **Extract** the software to a convenient location on your PC.
-3. **Run** the `setup.exe` file and follow the on-screen instructions to install the spoofer.
+3. **Run** the `spoofer.exe` file and follow the on-screen instructions to install the spoofer.
 
 ### How to Use HWID Spoofer
 
